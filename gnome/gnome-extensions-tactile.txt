@@ -1,0 +1,6 @@
+[tactile]
+col-0=2
+col-3=2
+monitor-0-layout=1
+row-2=0
+tile-0-0=['q']
