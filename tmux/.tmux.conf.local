@@ -468,6 +468,7 @@ set -g @tokyo-night-tmux_battery_name "BAT1"  # some linux distro have 'BAT0'
 set -g status-position top
 set -g status-justify left
 set -g status-style 'bg=#1e1e2e'
+set -g allow-passthrough on
 
 bind-key -T copy-mode-vi 'C-h' select-pane -L
 bind-key -T copy-mode-vi 'C-j' select-pane -D
